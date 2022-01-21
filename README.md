@@ -1,2 +1,2 @@
-# CoreJava-basic-Assignments
+# CoreJava-basic-Assignment
 basic java  program for testing
